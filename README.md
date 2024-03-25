@@ -1,0 +1,1 @@
+This is an implementation of the paper Improving Factuality and Reasoning in Language Models through Multiagent Debate(Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch) using open-source models.
